@@ -1,0 +1,23 @@
+_repo: Comic-history-of-the-United-States_56501
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hopkins, Livingston
+    alias: Hopkins, L. (Livingston)
+    birthdate: 1846
+    deathdate: 1927
+    gutenberg_agent_id: '42766'
+    url: http://www.gutenberg.org/2009/agents/42766
+description: ''
+gutenberg_issued: '2018-02-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56501'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Comic history of the United States
+url: http://www.gutenberg.org/ebooks/56501
